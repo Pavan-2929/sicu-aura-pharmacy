@@ -5,7 +5,7 @@ export default function AdminFooter() {
     <>
       <footer className="footer">
         <div className="container-fluid">
-          MediCare ReactJS Project // <i>&nbsp;Pharmacy Module</i>
+          Sicu-aura ReactJS Project // <i>&nbsp;Pharmacy Module</i>
           <div className="copyright ml-auto">
             {" "}
             Copyright &copy;&nbsp;
